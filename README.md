@@ -1,7 +1,7 @@
 ### Hello 👋
 ## Shrawani Bawage 
 
-[![Gmail Badge](https://img.shields.io/badge/-bawageshrawani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bawageshrawani@gmail.com)](mailto:bawageshrawani@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-shrawanibawage@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shrawanibawage@gmail.com)](mailto:shrawanibawage@gmail.com) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/shrawanibawage-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/shrawani-bawage-50494414a/)](https://www.linkedin.com/in/shrawani-bawage-50494414a/)
 
